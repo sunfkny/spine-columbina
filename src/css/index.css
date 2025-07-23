@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#player-container{
+    height: 100vh;
+}
